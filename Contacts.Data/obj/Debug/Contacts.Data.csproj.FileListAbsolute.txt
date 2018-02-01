@@ -1,0 +1,27 @@
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Data.dll.config
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Data.dll
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Data.pdb
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.dll
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\EntityFramework.dll
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.pdb
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.dll.config
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\EntityFramework.xml
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\obj\Debug\Contacts.Data.csprojResolveAssemblyReference.cache
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\obj\Debug\Contacts.Data.dll
+C:\Users\ruxandra\documents\visual studio 2017\Projects\Contacts\Contacts.Data\obj\Debug\Contacts.Data.pdb
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Data.dll.config
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Data.dll
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Data.pdb
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.dll
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\EntityFramework.dll
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.pdb
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\Contacts.Entities.dll.config
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\EntityFramework.xml
+C:\work\prjs\git\Contacts\Contacts.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\prjs\git\Contacts\Contacts.Data\obj\Debug\Contacts.Data.csprojResolveAssemblyReference.cache
+C:\work\prjs\git\Contacts\Contacts.Data\obj\Debug\Contacts.Data.csproj.CoreCompileInputs.cache
+C:\work\prjs\git\Contacts\Contacts.Data\obj\Debug\Contacts.Data.dll
+C:\work\prjs\git\Contacts\Contacts.Data\obj\Debug\Contacts.Data.pdb

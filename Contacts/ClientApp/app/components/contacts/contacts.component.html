@@ -1,0 +1,18 @@
+﻿<div>
+    Hello world!
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Email ID</th>
+            <th>Subscribed Date</th>
+        </tr>
+        <tbody>
+            <tr *ngFor="let con of contacts">
+                <td>{{ con.firstName }}</td>
+                <td>{{ con.lastName }}</td>
+                <td>{{ con.email }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
